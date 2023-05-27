@@ -16,4 +16,4 @@ After downloading the Group32 Stigler's Diet Problem.py file to run it:
   the experiment function within the .py file.
   
   Like this:
-  def experiment(num_runs: int = 20) -> def experiment(num_runs: int = (Any value you want))
+  def experiment(num_runs: int = 20) -> def experiment(num_runs: int = Any value you want)
