@@ -1,5 +1,5 @@
 # Stigler_Diet_CI40_Group_32
-Full Resolution to the Stigler Diet Problem using an genetic algorithm with different techniques 
+Full Resolution to the Stigler Diet Problem using an genetic algorithm with different selection,crossover and mutation techniques. 
 
 Please View this link to check the introduction of the Stigler Diet Problem:
 
