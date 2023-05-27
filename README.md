@@ -12,8 +12,8 @@ After downloading the Group32 Stigler's Diet Problem.py file to run it:
 - 3rd: In your terminal go ahead and type:
   python (full path), click enter.
   
-  Keep in mind that the current configuration is set only for 20 runs for each configuration, to change this, you just need to edit 
-  the experiment function within the .py file.
+Keep in mind that the current configuration is set only for 20 runs for each configuration, to change this, you just need to edit 
+the experiment function within the .py file.
   
-  Like this:
-  def experiment(num_runs: int = 20) -> def experiment(num_runs: int = Any value you want)
+Like this:
+def experiment(num_runs: int = 20) -> def experiment(num_runs: int = Any value you want)
